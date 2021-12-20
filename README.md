@@ -19,3 +19,5 @@ The HTML file also by default includes a `gallery.css` file that can be used to 
 ## Disclaimer
 
 Use at own risk
+
+Copyright (c) 2020 Herbert Lange
